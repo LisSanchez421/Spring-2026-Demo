@@ -1,0 +1,19 @@
+html, body {
+  margin:auto ;
+  padding: 0;
+  background-color:rgb(246, 204, 225);
+  font-family:fantasy;
+  font-size: 35px;
+  text-align: center;
+  header{
+    color: rgb(176, 88, 176);
+  }
+  p{
+    color: darkslateblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  }
+}
+
+canvas {
+  display: block;
+}
